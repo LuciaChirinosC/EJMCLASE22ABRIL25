@@ -29,6 +29,6 @@ Resultado 💡
  - Identificación de patrones de compra y tendencias de comportamiento.
  - Insights accionables para mejorar la fidelización y personalización de campañas.
 
-Conexión con proyecto P1 🔗
+Conexión con proyecto P1.Store_1Data_limpieza_datos 🔗
 
 Este análisis se basa en los datos limpios y preparados en P1
